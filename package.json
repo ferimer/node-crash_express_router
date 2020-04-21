@@ -1,0 +1,12 @@
+{
+  "name": "@ferimer/crash_express_router",
+  "version": "1.0.0",
+  "description": "Crash Express Router for receiving client side crash reports to be registered into backend databases",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:ferimer/node-crash_express_router.git",
+  "author": "Ferimer",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
